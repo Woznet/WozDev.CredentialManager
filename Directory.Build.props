@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <!-- Set the base path for the intermediate output directory -->
+    <BaseIntermediateOutputPath>../build_obj/</BaseIntermediateOutputPath>
+  </PropertyGroup>
+</Project>
